@@ -11,7 +11,7 @@ Press **Shift+G** to capture screen → OCR recognition → AI answer → popup.
 - 🔥 **Shift+G** one-key screenshot & solve
 - 🔍 RapidOCR auto recognition (Chinese & English)
 - 🤖 AI-powered answers (concise output, no fluff)
-- 🪟 Modern light-themed UI (clawd-on-desk style)
+- 🪟 Modern light-themed UI 、
 - 📋 One-click copy answer
 - 📜 Answer history (inline in sidebar)
 - ⚙ Sidebar layout: Home / Token / History / Settings / Providers
