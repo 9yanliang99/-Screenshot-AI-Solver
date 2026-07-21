@@ -66,7 +66,3 @@ SCREENSHOT_AI_MODEL=gpt-4o
 | Copy Answer | Click button or `Ctrl+C` |
 | Close Popup | `Esc` |
 | Minimize to Tray | Close main window |
-
-## 📄 License
-
-MIT License
