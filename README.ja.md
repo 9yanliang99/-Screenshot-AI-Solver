@@ -66,7 +66,3 @@ SCREENSHOT_AI_MODEL=gpt-4o
 | 回答をコピー | ボタンクリック または `Ctrl+C` |
 | 閉じる | `Esc` |
 | トレイに最小化 | メインウィンドウを閉じる |
-
-## 📄 ライセンス
-
-MIT License
